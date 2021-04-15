@@ -18,6 +18,7 @@ namespace TestGit
             Console.WriteLine("TestGit");
             string s = Console.ReadLine();
             Console.WriteLine(s);
+            print();
         }
     }
 }
